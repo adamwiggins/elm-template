@@ -1,0 +1,4 @@
+#!/bin/sh
+
+elm-live *.elm --output=elm.js
+
